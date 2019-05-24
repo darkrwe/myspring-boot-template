@@ -1,0 +1,5 @@
+com/myspring/application/Application.class
+com/myspring/application/model/DefaultEntity.class
+com/myspring/application/repository/DefaultRepository.class
+com/myspring/application/service/DefaultService.class
+com/myspring/application/controller/DefaultController.class
