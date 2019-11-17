@@ -44,7 +44,7 @@ public class DefaultController {
 
 
     @PostMapping("/")
-    public ResponseEntity<DefaultEntity> insertInsurance(@RequestBody DefaultEntity defaultEntity) {
+    public ResponseEntity<DefaultEntity> insertEntity(@RequestBody DefaultEntity defaultEntity) {
 
         if (defaultEntity != null) {
             DefaultEntity insertedDefaultEntity = defaultService.saveEntityItem(defaultEntity);
