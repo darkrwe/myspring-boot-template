@@ -1,6 +1,6 @@
 # myspring-boot-template
 
-Spring Boot Template Application
+(Spring Boot + Spring Data JPA) Spring Boot Template Application 
 
 ## Profiles
 * dev
