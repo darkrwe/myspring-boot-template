@@ -3,7 +3,7 @@
 (Spring Boot + Spring Data JPA) Spring Boot Template Application 
 
 ## Profiles
-* dev
+* devaa
 
 ## Build
 ```
