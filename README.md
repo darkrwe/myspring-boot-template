@@ -6,8 +6,10 @@
 * dev
 
 ## Prepare DB
+```
 docker pull mysql
 docker run --name=mysql -d -p 3306:3306 -e "MYSQL_ROOT_PASSWORD=root" -e "MYSQL_DATABASE=main" -e "MYSQL_USER=test" -e "MYSQL_PASSWORD=test" mysql:latest
+```
 
 ## Build
 ```
